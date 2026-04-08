@@ -12,6 +12,3 @@ This is a simple Python web scraping project using BeautifulSoup.
 - requests
 - BeautifulSoup
 
-## How to Run
-```bash
-python scraper.py
