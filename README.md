@@ -1,1 +1,17 @@
-# quotes-web-scraper
+# Quotes Web Scraper
+
+This is a simple Python web scraping project using BeautifulSoup.
+
+## Features
+- Scrapes quotes from quotes.toscrape.com
+- Saves HTML pages locally
+- Extracts quotes with "life" tag
+
+## Tech Used
+- Python
+- requests
+- BeautifulSoup
+
+## How to Run
+```bash
+python scraper.py
